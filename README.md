@@ -102,4 +102,4 @@ vex-ai-upgraded/ #Vex 0.2
 └── setup.py                           # Package setup
 _________________________________________
 
-(Please Go To Code Section After Preview Mode For Better Views If Each Files) 
+(Please Go To Code Section After Preview Mode For Better Views If Each Files)  Recommendations (Use GitHub On Web) 
